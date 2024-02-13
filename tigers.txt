@@ -2,7 +2,7 @@ team: Tigers
 ​
 manager: mainSTTigers
 
-coach : to-mergerSTGrace
+coach : to-mergeSTGrace
 ​
 members:
 - Linda
@@ -10,3 +10,4 @@ members:
 - David1
 - Georage
 - to-rebaseTyler
+- kim
